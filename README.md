@@ -71,7 +71,7 @@ Users and admins can download detailed PDF invoices after order completion.
 An interactive AI chatbot for real-time customer assistance and FAQs.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f53eb7e-20f6-4960-b0f1-7b1fb03d77cb" width="800" height="400" alt="Chatbot Screenshot" />
+  <img src="https://github.com/user-attachments/assets/3f53eb7e-20f6-4960-b0f1-7b1fb03d77cb" width="800" height="600" alt="Chatbot Screenshot" />
 </p>
 
 ---
