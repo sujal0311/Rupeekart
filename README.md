@@ -1,4 +1,9 @@
-# ![image](https://github.com/user-attachments/assets/2c656324-7750-465c-b00a-7cbe0091628d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c656324-7750-465c-b00a-7cbe0091628d" width="300" alt="RupeeKart Logo" />
+</p>
+
+# 🛒 RupeeKart - MERN Stack E-Commerce Platform
+
  RupeeKart - MERN Stack E-Commerce Platform
 
 RupeeKart is a full-featured, scalable e-commerce web application built using the MERN stack. It includes a user-friendly interface for customers and a powerful admin panel for product, user, and order management. With real-time order tracking, AI chatbot support, and secure Razorpay payments, RupeeKart delivers a seamless shopping experience.
