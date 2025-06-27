@@ -125,24 +125,25 @@ EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
 FRONTEND_URL=http://localhost:5173
 
-### ▶️ Run the Project
-# Start Backend Server
-
+## ▶️ Run the Project
+### Start Backend Server
+```bash
 cd backend
 npm run dev
 
-# Start Frontend
+### Start Frontend
 In a new terminal:
-
+```bash
 cd frontend
 npm run dev
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 🔗 [RupeeKart Live](https://rupeekart2024.netlify.app)
 
-# 📩 Contact
--Sujal Agarwal
--📧 sujalagarwal0311@gmail.com
+## 📩 Contact
+```bash
+Sujal Agarwal
+📧 sujalagarwal0311@gmail.com
 
-# ⭐ Show Your Support
+## ⭐ Show Your Support
 If you found this project helpful, please consider giving it a ⭐ and sharing it with others!
