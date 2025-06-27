@@ -130,7 +130,7 @@ FRONTEND_URL=http://localhost:5173
 ```bash
 cd backend
 npm run dev
-
+bash'''
 ### Start Frontend
 In a new terminal:
 ```bash
