@@ -21,8 +21,10 @@ RupeeKart is a full-featured, scalable e-commerce web application built using th
 
 | Home Page | Product Details | Admin Dashboard |
 |----------|------------------|------------------|
-| ![Home](![image](https://github.com/user-attachments/assets/abbe6b2c-32f7-4d19-97f2-c3f96a9af54e)
-) | ![Product](screenshots/product.png) | ![Admin](screenshots/admin.png) |
+|(![image](https://github.com/user-attachments/assets/abbe6b2c-32f7-4d19-97f2-c3f96a9af54e)
+) | ![Product](![image](https://github.com/user-attachments/assets/54df30ee-d2db-4dbe-a3d6-33262748fe84)
+) | ![Admin](![image](https://github.com/user-attachments/assets/385ec8ee-32ef-4f54-b936-9db56f09ef7a)
+) |
 
 > 📸 _You can update the paths above after uploading screenshots to the `screenshots/` folder in your repo._
 
