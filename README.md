@@ -63,8 +63,7 @@ After order completion, users can download PDF invoices. Admins also get access 
 Integrated AI chatbot helps users with queries, making the platform more interactive and user-friendly.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f53eb7e-20f6-4960-b0f1-7b1fb03d77cb
-" width="600" alt="Chatbot Screenshot" />
+  <img src="https://github.com/user-attachments/assets/3f53eb7e-20f6-4960-b0f1-7b1fb03d77cb" width="600" alt="Chatbot Screenshot" />
 </p>
 
 ---
@@ -97,16 +96,16 @@ Customers receive real-time email alerts on order status, cancellations, and shi
 git clone https://github.com/yourusername/rupeekart.git
 cd rupeekart
 
-2. Install Backend Dependencies
+### 2. Install Backend Dependencies
 cd backend
 npm install
 
-3. Install Frontend Dependencies
+### 3. Install Frontend Dependencies
 
 cd frontend
 npm install
 
-4. Add Environment Variables
+### 4. Add Environment Variables
 Create a .env file in the root and add:
 
 PORT=5000
@@ -127,19 +126,14 @@ cd frontend
 npm run dev
 
 🌐 Live Demo
-### RupeeKart Live[https://rupeekart2024.netlify.app]
+### RupeeKart Live(https://rupeekart2024.netlify.app)
 
 ### 📩 Contact
 Sujal Agarwal
 📧 sujalagarwal0311@gmail.com
 
-⭐ If you liked this project, please give it a star and share your feedback!
+# ⭐ If you liked this project, please give it a star and share your feedback!
 
 ---
 
-### 🔧 To Do Before Final Upload:
-- Replace `https://your-upload-url.com/chatbot-screenshot.png` with the actual chatbot image.
-- Replace `yourusername` with your GitHub username in the clone link.
-- Make sure `.env` instructions match your actual variables if different.
 
-Would you like me to generate a badge section (e.g., "Made with MERN", "Deployed on Netlify", etc.) too?
