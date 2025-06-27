@@ -101,22 +101,29 @@ Receive real-time updates on order confirmation, cancellation, and shipping via 
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/yourusername/rupeekart.git
 cd rupeekart
+```
 
 ### 2. Install Backend Dependencies
 
+```bash
 cd backend
 npm install
+```
 
 ### 3. Install Frontend Dependencies
 
+```bash
 cd ../frontend
 npm install
+```
 
 ### 4. Add Environment Variables
-Create a .env file in the backend/ folder and add:
 
+Create a .env file in the backend/ folder and add:
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_uri
 RAZORPAY_KEY_ID=your_key_id
@@ -124,33 +131,32 @@ RAZORPAY_KEY_SECRET=your_key_secret
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
 FRONTEND_URL=http://localhost:5173
+```
 
 ## ▶️ Run the Project
-▶️ Run the Project
-✅ Start Backend
-bash
-Copy
-Edit
+
+### ✅ Start Backend
+
+```bash
 cd backend
 npm run dev
-✅ Start Frontend
-bash
-Copy
-Edit
+```
+
+### ✅ Start Frontend
+
+```bash
 cd frontend
 npm run dev
-📩 Contact
-Sujal Agarwal
-sujalagarwal0311@gmail.com
+```
 
 ## 🌐 Live Demo
 🔗 [RupeeKart Live](https://rupeekart2024.netlify.app)
 
 ## 📩 Contact
-```bash
+
 Sujal Agarwal
-📧 sujalagarwal0311@gmail.com
-'''
+```bash 📧 sujalagarwal0311@gmail.com ```
+
 
 ## ⭐ Show Your Support
 If you found this project helpful, please consider giving it a ⭐ and sharing it with others!
