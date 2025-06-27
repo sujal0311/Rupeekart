@@ -12,7 +12,9 @@ RupeeKart is a feature-rich, scalable e-commerce web application built using the
 
 Explore featured products, search with filters, and experience a responsive design optimized for all devices.
 
-![Home](https://github.com/user-attachments/assets/abbe6b2c-32f7-4d19-97f2-c3f96a9af54e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abbe6b2c-32f7-4d19-97f2-c3f96a9af54e" width="600" alt="Home Page Screenshot" />
+</p>
 
 ---
 
@@ -20,7 +22,9 @@ Explore featured products, search with filters, and experience a responsive desi
 
 View detailed product information, add items to cart, and proceed to checkout with ease.
 
-![Product](https://github.com/user-attachments/assets/54df30ee-d2db-4dbe-a3d6-33262748fe84)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54df30ee-d2db-4dbe-a3d6-33262748fe84" width="600" alt="Product Details Screenshot" />
+</p>
 
 ---
 
@@ -28,7 +32,9 @@ View detailed product information, add items to cart, and proceed to checkout wi
 
 Admins can manage all products, users, and orders. Easily update product listings, track users, and monitor orders.
 
-![Admin](https://github.com/user-attachments/assets/385ec8ee-32ef-4f54-b936-9db56f09ef7a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/385ec8ee-32ef-4f54-b936-9db56f09ef7a" width="600" alt="Admin Dashboard Screenshot" />
+</p>
 
 ---
 
@@ -36,7 +42,9 @@ Admins can manage all products, users, and orders. Easily update product listing
 
 RupeeKart supports secure payments via Razorpay, enabling smooth and trustworthy transactions.
 
-![Razorpay](https://your-upload-url.com/razorpay-screenshot.png) <!-- Upload screenshot if available -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8cf83c8-4da6-4f13-980e-186db9b4b866" width="600" alt="Razorpay Screenshot" />
+</p>
 
 ---
 
@@ -44,7 +52,9 @@ RupeeKart supports secure payments via Razorpay, enabling smooth and trustworthy
 
 After order completion, users can download PDF invoices. Admins also get access to detailed order receipts.
 
-![Invoice](https://your-upload-url.com/invoice-screenshot.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc2f99df-ae9d-4b10-83c0-575d55ae54af" width="600" alt="Invoice Screenshot" />
+</p>
 
 ---
 
@@ -52,7 +62,9 @@ After order completion, users can download PDF invoices. Admins also get access 
 
 Integrated AI chatbot helps users with queries, making the platform more interactive and user-friendly.
 
-![Chatbot](https://your-upload-url.com/chatbot-screenshot.png)
+<p align="center">
+  <img src="https://your-upload-url.com/chatbot-screenshot.png" width="600" alt="Chatbot Screenshot" />
+</p>
 
 ---
 
@@ -60,9 +72,9 @@ Integrated AI chatbot helps users with queries, making the platform more interac
 
 Customers receive real-time email alerts on order status, cancellations, and shipment using Nodemailer.
 
-(![image](https://github.com/user-attachments/assets/3e18ffe6-8c23-4278-9914-313602b2fae3)
-)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e18ffe6-8c23-4278-9914-313602b2fae3" width="600" alt="Email Notification Screenshot" />
+</p>
 
 ---
 
@@ -79,9 +91,54 @@ Customers receive real-time email alerts on order status, cancellations, and shi
 
 ## 🔧 Getting Started
 
-```bash
+### 1. Clone the Repository
+
 git clone https://github.com/yourusername/rupeekart.git
 cd rupeekart
+
+2. Install Backend Dependencies
+cd backend
 npm install
-cd client
+
+3. Install Frontend Dependencies
+
+cd frontend
 npm install
+
+4. Add Environment Variables
+Create a .env file in the root and add:
+
+PORT=5000
+MONGO_URI=your_mongodb_uri
+RAZORPAY_KEY_ID=your_key_id
+RAZORPAY_KEY_SECRET=your_key_secret
+EMAIL_USER=your_email
+EMAIL_PASS=your_email_password
+FRONTEND_URL=http://localhost:3000
+
+▶️ Run the Project
+# Start backend server
+cd backend
+npm run dev
+
+# In another terminal, run frontend
+cd frontend
+npm run dev
+
+🌐 Live Demo
+### RupeeKart Live[https://rupeekart2024.netlify.app]
+
+### 📩 Contact
+Sujal Agarwal
+📧 sujalagarwal0311@gmail.com
+
+⭐ If you liked this project, please give it a star and share your feedback!
+
+---
+
+### 🔧 To Do Before Final Upload:
+- Replace `https://your-upload-url.com/chatbot-screenshot.png` with the actual chatbot image.
+- Replace `yourusername` with your GitHub username in the clone link.
+- Make sure `.env` instructions match your actual variables if different.
+
+Would you like me to generate a badge section (e.g., "Made with MERN", "Deployed on Netlify", etc.) too?
