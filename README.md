@@ -1,8 +1,6 @@
 <span align="center">
   <img src="https://github.com/user-attachments/assets/2c656324-7750-465c-b00a-7cbe0091628d" width="100" height="100" alt="RupeeKart Logo" />
-</span>
-
-# 🛒 RupeeKart - MERN Stack E-Commerce Platform
+</span> RupeeKart - MERN Stack E-Commerce Platform
 
  RupeeKart - MERN Stack E-Commerce Platform
 
