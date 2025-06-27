@@ -155,7 +155,9 @@ npm run dev
 ## 📩 Contact
 
 Sujal Agarwal
-```bash 📧 sujalagarwal0311@gmail.com ```
+```bash 
+📧 sujalagarwal0311@gmail.com
+```
 
 
 ## ⭐ Show Your Support
