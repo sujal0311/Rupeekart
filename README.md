@@ -63,7 +63,8 @@ After order completion, users can download PDF invoices. Admins also get access 
 Integrated AI chatbot helps users with queries, making the platform more interactive and user-friendly.
 
 <p align="center">
-  <img src="https://your-upload-url.com/chatbot-screenshot.png" width="600" alt="Chatbot Screenshot" />
+  <img src="https://github.com/user-attachments/assets/3f53eb7e-20f6-4960-b0f1-7b1fb03d77cb
+" width="600" alt="Chatbot Screenshot" />
 </p>
 
 ---
