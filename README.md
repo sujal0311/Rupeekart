@@ -56,12 +56,12 @@ Secure and smooth transactions using Razorpay, supporting major payment methods.
 
 ---
 
-## 🧾 Invoice Generation
+## 🚚 Order Tracking with Updates and Invoice Generation
 
-Users and admins can download detailed PDF invoices after order completion.
+Track your order status with step-by-step visuals like "Placed", "Packed", "Shipped", and "Delivered" and users and admins can download detailed PDF invoices after order completion.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc2f99df-ae9d-4b10-83c0-575d55ae54af" width="800" alt="Invoice Screenshot" />
+  <img src="https://github.com/user-attachments/assets/bc2f99df-ae9d-4b10-83c0-575d55ae54af" width="800" alt="Order Tracking Screenshot" />
 </p>
 
 ---
@@ -82,6 +82,37 @@ Receive real-time updates on order confirmation, cancellation, and shipping via 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3e18ffe6-8c23-4278-9914-313602b2fae3" width="800" alt="Email Notification Screenshot" />
+</p>
+
+---
+
+## 🔔 Notifications Panel
+
+Stay updated with in-app toast notifications for order updates, successful payments, stock alerts, and more.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f985a06a-4359-4d61-9a37-61d5c04bf265" width="800" alt="Notification Screenshot" />
+</p>
+
+
+---
+
+## 📤 Share Product Feature
+
+Easily share product pages via WhatsApp, Telegram, or copy direct links.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/874bb132-0e3c-4904-8405-0baa51fbc879" width="800" alt="Product Share Screenshot" />
+</p>
+
+---
+
+## 🔍 Advanced Search & Filters
+
+Filter by price, brand, category, and rating to find exactly what you need.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebb17717-d4b2-4af5-b4d3-e6d4d759e9b5" width="800" alt="Search Filter Screenshot" />
 </p>
 
 ---
