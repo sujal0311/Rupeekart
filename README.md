@@ -60,8 +60,9 @@ Integrated AI chatbot helps users with queries, making the platform more interac
 
 Customers receive real-time email alerts on order status, cancellations, and shipment using Nodemailer.
 
-![Email](![image](https://github.com/user-attachments/assets/edfbac24-a2b8-45ba-9f86-a567c58b320a)
+(![image](https://github.com/user-attachments/assets/3e18ffe6-8c23-4278-9914-313602b2fae3)
 )
+
 
 ---
 
